@@ -1,6 +1,6 @@
 # Weather Forecaster React Project
 
-#### [Description](#description) | [Demo](#demo) | [Important Git/GitHub Expectations](#important-git-github-expectations) | [Important Notes on APIs](#important-notes-on-apis) | [Getting Started](#getting-started) | [Requirements](#requirements) | [Bonuses](#bonuses)
+#### [Description](#description) | [Demo](#demo) | [Important Git/GitHub Expectations](#important-gitgithub-expectations) | [Important Notes on APIs](#important-notes-on-apis) | [Getting Started](#getting-started) | [Requirements](#requirements) | [Bonuses](#bonuses)
 
 ---------
 
