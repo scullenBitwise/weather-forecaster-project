@@ -102,6 +102,7 @@ Since your app will be front-end-only (with no back-end server), there are some 
 
 - [ ] Use a React-specific CSS framework like [reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page) or [React Materialize](https://react-materialize.github.io/react-materialize/?path=/story/react-materialize--welcome) to jumpstart your styling, and to ensure mobile responsiveness.
 - [ ] Disable the search button until the user has entered a search value.
+- [ ] Install React Router and route users to a separate page to view forecast details.
 - [ ] Have your app auto-detect a user's location on render (if that feature is enabled on the user's end) and use this location to render the initial weather forecast.
 - [ ] Consider implementing autocomplete functionality on your location search field. (Use an autocomplete API for this.)
 - [ ] Practice using [Bitwise's official commit message format](https://github.com/Shift3/standards-and-practices/blob/main/standards/commits.md).
