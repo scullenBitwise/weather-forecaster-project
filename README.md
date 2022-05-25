@@ -90,6 +90,7 @@ Since your app will be front-end-only (with no back-end server), there are some 
 - [ ] Your app should have passing component tests for at least two of your main components (SearchBar, DayCard, DayDetails, etc). Any utility functions your app uses (with exception to API calls) should have thorough unit test coverage.
 - [ ] Upon initial render, your app should load a 7-day weather forecaset for the default location of your choice.
 - [ ] Your app should have a search bar that allows a user to specify a new location to search in. After user search, the app should render weather forecast data for the new location.
+- [ ] The user of your app should be able to enter either a city/state, a zip code, an address, or a landmark for their search term. If your weather API relies on a lat/lon for search, use a geocoder to convert the human-friendly search into location coordinates.
 - [ ] Each component's props should be destructured for component readibility.
 - [ ] Pull data from your external APIs using `axios`, `fetch`, or a similar tool.
 - [ ] Hide any API keys using a `.env.local` file.
@@ -106,6 +107,6 @@ Since your app will be front-end-only (with no back-end server), there are some 
 - [ ] Have your app auto-detect a user's location on render (if that feature is enabled on the user's end) and use this location to render the initial weather forecast.
 - [ ] Consider implementing autocomplete functionality on your location search field. (Use an autocomplete API for this.)
 - [ ] Practice using [Bitwise's official commit message format](https://github.com/Shift3/standards-and-practices/blob/main/standards/commits.md).
-- [ ] Deploy your app to GitHub Pages, Netlify, or a similar service and share the url with your team so we can all try it!
+- [ ] Deploy your app and share the url with the team so we can all try it!
 - [ ] Write a detailed README.md file using best practices: [README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - [ ] Look into using [Storybook](https://storybook.js.org/docs/react/get-started/introduction) as a tool for building, standardizing, and documenting your React components in isolation.
